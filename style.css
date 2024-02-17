@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@0,1..1000;1,1..1000&display=swap');
-/*font-family: "Ysabeau Infant", sans-serif;*/
+
+
 * {
     margin: 0;
     padding: 0;
@@ -7,12 +8,19 @@
     text-decoration: none;
 }
 
+
 body {
     font-size: 100%;
     background-image: url(./assets/bg_desktop_light.jpg);
     background-repeat: no-repeat;  
     background-position: center;
-    background-size: cover;
+    background-size: cover; 
+}
+
+.container {
+    max-width: 1200px; /* Defina a largura máxima do container */
+    margin: 0 auto; /* Centralize o container horizontalmente */
+    padding: 0 20px; /* Adicione preenchimento opcional nas laterais */
 }
 
 .cabeçalho {
@@ -24,7 +32,8 @@ body {
 
 .logo {
     width: 200px;
-    margin-right: 250px;
+    /*margin-right: 250px;*/
+    margin-right: 0;
 }
 
 .menu {
