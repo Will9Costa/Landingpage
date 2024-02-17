@@ -29,26 +29,29 @@ body {
     align-items: center;
     justify-content: space-around;
     padding: 30px;
+    margin: 0;
 }
 
 .logo {
-    width: 200px;
+    width: 50px;
     /*margin-right: 250px;*/
-    margin-right: 0;
+    margin-right: 150px;
+
+   
 }
 
 .menu {
     display: flex;
     font-family: "Ysabeau Infant", sans-serif;
-    gap: 40px;      
+    gap: 10px;      
 }
 
 .menu-item {
     color: white;
     font-weight: 600;
-    font-size: 30px;
+    font-size: 15px;
     background-color: rgb(0, 0, 151);
-    padding: 20px;
+    padding: 10px;
     border-radius: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 151, 0.53);
     transition: transform 0.3s ease-in-out;
@@ -79,16 +82,19 @@ body {
 }
 
 .principal-titulo {
-    font-size: 60px;
+    font-size: 30px;
+    font-weight: 700;
     color: coral;
 }
 
 .principal-subtitulo {
-    font-size: 40px;
+    font-size: 20px;
     color: coral;
+    font-weight: 600;
 }
 
 .boneca2 {
+    width: 200px;
     margin-top: 30px;
 }
 
@@ -97,7 +103,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
     margin-top: 48px;
 }
 
@@ -106,17 +112,18 @@ body {
     padding-top: 48px; 
     color: rgb(0, 0, 151);
     font-weight: 600;
-    font-size: 50px;
+    font-size: 35px;
     font-family: "Ysabeau Infant", sans-serif;
     margin-bottom: 16px;
 }
 
 .secundario-paragrafo {
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     font-family: "Ysabeau Infant", sans-serif;
-    color: rgb(0, 0, 151);  
-
+    color: rgb(0, 0, 151); 
+    text-align: center;
+  
 }
 
 .rodape {
@@ -130,7 +137,7 @@ body {
 }
 
 .rodape-imagem {
-    width: 70px;
+    width: 40px;
     margin: 30px;
       
 }
