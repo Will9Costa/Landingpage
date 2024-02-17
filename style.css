@@ -19,6 +19,7 @@ body {
 
 .container {
     max-width: 1200px; /* Defina a largura máxima do container */
+    width: 100%;
     margin: 0 auto; /* Centralize o container horizontalmente */
     padding: 0 20px; /* Adicione preenchimento opcional nas laterais */
 }
