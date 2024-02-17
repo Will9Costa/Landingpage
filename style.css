@@ -109,10 +109,10 @@ body {
 
 .secundario-titulo {
     border-top: 0.4px solid rgba(0, 0, 151, 0.194);
-    padding-top: 20px; 
+    padding-top: 10px; 
     color: rgb(0, 0, 151);
     font-weight: 600;
-    font-size: 35px;
+    font-size: 30px;
     font-family: "Ysabeau Infant", sans-serif;
     margin-bottom: 16px;
 }
