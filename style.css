@@ -35,9 +35,7 @@ body {
 .logo {
     width: 50px;
     /*margin-right: 250px;*/
-    margin-right: 30px;
-
-   
+    margin-right: 30px;   
 }
 
 .menu {
@@ -60,15 +58,13 @@ body {
 .menu-item:hover {
     background-color: rgba(42, 123, 88, 0.375);
     transform: translateY(-2px);
-    
-
 }
 
 .conteudo {
     margin-bottom: 25px;
     border-top: 1px solid  rgba(0, 0, 151, 0.194);
-
 }
+
 .principal {
     display: flex;
     align-items: center;
@@ -108,8 +104,7 @@ body {
 }
 
 .secundario-titulo {
-    border-top: 0.4px solid rgba(0, 0, 151, 0.194);
-    padding-top: 10px; 
+    border-top: 0.4px solid rgba(0, 0, 151, 0.194); 
     color: rgb(0, 0, 151);
     font-weight: 600;
     font-size: 30px;
@@ -122,8 +117,7 @@ body {
     font-size: 20px;
     font-family: "Ysabeau Infant", sans-serif;
     color: rgb(0, 0, 151); 
-    text-align: center;
-  
+    text-align: center;  
 }
 
 .rodape {
@@ -133,13 +127,11 @@ body {
 
     border-top: 0.4px solid rgba(0, 0, 151, 0.194);
     margin: auto;
-
 }
 
 .rodape-imagem {
     width: 40px;
-    margin: 10px;
-      
+    margin: 10px;     
 }
 
 
