@@ -80,12 +80,12 @@ body {
 .principal-titulo {
     font-size: 30px;
     font-weight: 700;
-    color: coral;
+    color: rgb(255, 76, 11);
 }
 
 .principal-subtitulo {
     font-size: 20px;
-    color: coral;
+    color: rgb(255, 76, 11);
     font-weight: 600;
 }
 
